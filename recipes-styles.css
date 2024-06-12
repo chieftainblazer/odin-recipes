@@ -1,3 +1,14 @@
 body {
   background-color: red;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 310px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
